@@ -1,5 +1,9 @@
 # XOR Neural Network
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![NumPy](https://img.shields.io/badge/NumPy-1.20+-blue.svg)](https://numpy.org/)
+
 A minimal multi-layer perceptron implementation in pure NumPy that learns the XOR function.
 
 ## Features
